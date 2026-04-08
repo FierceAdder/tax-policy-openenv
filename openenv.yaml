@@ -1,0 +1,10 @@
+name: "tax_policy_env"
+version: "1.0.0"
+description: "An economic simulation where an AI agent designs tax policies to balance GDP, unemployment, and inequality."
+tasks:
+  - name: "easy"
+    description: "Maximize GDP growth by adjusting the tax rate."
+  - name: "medium"
+    description: "Balance high GDP growth with low unemployment."
+  - name: "hard"
+    description: "Balance GDP growth, low unemployment, and low inequality."
